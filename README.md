@@ -1,6 +1,6 @@
-## Sujin's Github 👋
+<h2 align=center>Sujin's Github 👋 </h2>
 
-### stat 🌱
+<h3 align=center> stat 🌱 </h3>
 <p align="center"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a></p>
 
 ![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin0529&theme=vue&show_icons=true)
