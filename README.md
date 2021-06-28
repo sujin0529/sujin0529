@@ -1,4 +1,7 @@
-### Hi there 👋
+## Sujin's Github 👋
+
+### stat 🌱 
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp 
 
 ![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin0529&theme=vue&show_icons=true)
 
