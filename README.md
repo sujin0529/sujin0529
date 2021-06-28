@@ -2,8 +2,10 @@
 
 <h2 align=center> stat 🌱 </h2>
 <p align="center"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a></p>
+</br>
 
-![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin0529&theme=vue&show_icons=true)
+![Sujin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sujin0529&theme=vue&show_icons=true)</br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujin0529&layout=compact&theme=calm" /></br>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnwls0529)](https://solved.ac/tnwls0529)
